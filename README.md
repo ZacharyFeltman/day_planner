@@ -11,3 +11,7 @@ Using HTML, CSS, and JS I have created a day planner in a browser.  It displays 
  - If user refreshed page, the event they previously entered will still be available in their time slot.
 
 ## Live Link
+https://zacharyfeltman.github.io/wordkday_planner/
+
+## Screen Shot
+![screenshot](screenshot.png)
